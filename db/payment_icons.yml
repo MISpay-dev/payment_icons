@@ -3450,3 +3450,7 @@
   name: deema
   label: Deema
   group: other
+-
+  name: mispay
+  label: MISpay
+  group: other
