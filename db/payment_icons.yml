@@ -379,6 +379,10 @@
   label: Newpay
   group: other
 -
+  name: blackhorseflexpay
+  label: Blackhorse Flexpay
+  group: other
+-
   name: klarna
   label: Klarna
   group: other
@@ -3081,6 +3085,10 @@
 -
   name: leanpay
   label: Leanpay
+  group: other
+-
+  name: raiffeisenbank
+  label: Raiffeisen Bank
   group: other
 -
   name: buckaroopayments
